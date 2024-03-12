@@ -3,7 +3,7 @@ public class FirstGit {
         System.out.println("GIT develop");
         System.out.println("EDIT!");
         System.out.println("ewfrgt!");
-        System.out.println("EDIT second");
+        System.out.println("EDIT second tgtht");
         System.out.println("New develop");
 
     }
